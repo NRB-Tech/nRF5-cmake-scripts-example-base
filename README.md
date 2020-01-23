@@ -1,6 +1,6 @@
 This is the base project template for [nRF5-cmake-scripts-example](https://github.com/NRB-Tech/nRF5-cmake-scripts-example).
 
-To recreate this from an empty directory:
+The steps to recreate this from an empty directory are:
 
 ```shell
 # create the directory
